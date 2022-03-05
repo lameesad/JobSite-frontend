@@ -8,6 +8,8 @@
 /bazel-out
 
 /environments
+.environment.prod.ts
+.environment.ts
 
 # dependencies
 /node_modules
